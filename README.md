@@ -6,6 +6,9 @@
 
 > [Play Now > https://hanginman.xyz](https://www.hanginman.xyz/)
 
+<p align="center">
+  <img src="https://i.imgur.com/WpFh7oG.png" alt="Demo" width="738">
+</p>
 
 ## 🚀 Features
 
