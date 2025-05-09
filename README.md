@@ -1,6 +1,11 @@
-# Hangin' Man 🕹️ | Ultimate Fast-paced Hangman Game | Word Game | Free, No Login Required, Awesome Browser Game
+# Hangin' Man 🕹️ Ultimate Fast-paced Hangman Game 
+### 1. Genre: Word Game 
+### 2. Type: Free, No Login Required, Awesome Browser Game
 
 🎯 **Play instantly. No login. No installs. Just words and wits.**
+
+> [Play Now > https://hanginman.xyz](https://www.hanginman.xyz/)
+
 
 ## 🚀 Features
 
@@ -11,7 +16,7 @@
 - ✅ Modern UI & Game Mechanics
 - ✅ Vocabulary Boost & Cognitive Challenge
 
-## 🌐 Live @
+## 🌐 Play At
 
 > [Play Now > https://hanginman.xyz](https://www.hanginman.xyz/)
 
